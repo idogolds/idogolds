@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @idogolds
-- 👀 I’m interested in Python,C and Java
-- 🌱 I’m currently learning  computer science for my diploma , C programming course and Python networking course
+- 👀 I’m interested in Python,C/C++,C#,Java and x86 assembly
+- 🌱 I’m currently learning  computer science for my diploma 
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 
